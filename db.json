@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "user",
+      "password": "user",
+      "role": "user"
+    }
+  ],
+  "news": [
+    {
+      "title": "Schools Announce One-Day Closure for Election",
+      "content": "Breaking News: In light of the upcoming election, local authorities have announced a one-day holiday for all schools in the region. The decision was made to facilitate the use of educational facilities as polling stations and ensure smooth voting operations. Parents and students are advised to plan accordingly, as regular school activities will be resumed the following day. The community is encouraged to participate in the election process.",
+      "id": 1,
+      "image": "BreakingNewsImage.jpg"
+    },
+    {
+      "title": "Action-Packed Sunday Awaits Football Fans with Key Super Lig Matches",
+      "content": "Football enthusiasts are in for an exhilarating Sunday with a full schedule of Turkish Super Lig matches. The day kicks off at 13:30 with Kasımpaşa facing Kayserispor, simultaneously with Hatayspor vs Rizespor, both promising to be dynamic encounters. The excitement continues as Altay and Konyaspor clash at 16:00, alongside Giresunspor against Alanyaspor and Antalyaspor taking on Gaziantep FK. The highlight of the day will be at 19:00 when giants Galatasaray and Trabzonspor go head-to-head in a much-anticipated showdown. Fans are set to witness strategic plays, with teams vying for crucial points in the league standings.",
+      "id": 2,
+      "image": "footballNewsImage.jpg"
+
+    },
+    {
+      "title": "Gold Prices Reach Record Highs",
+      "content": "The bullion market saw a historic moment today as gold prices soared, reaching unprecedented levels. Investors and collectors are closely monitoring the surge as market trends point to an increase in safe-haven asset investments. The record-breaking price has sparked a buzz among financial analysts, with implications for both the global economy and individual portfolios. As the market adapts to this new milestone, many are keen to see if gold will continue its ascendancy or if a correction is imminent.",
+      "id": 3,
+      "image": "goldNewsImage.jpeg"
+
+    },
+    {
+      "title": "Stocks Surge on Economic Optimism",
+      "content": "The stock market experienced a robust rally today, with indexes climbing sharply in response to positive economic indicators and investor optimism. Buoyed by strong corporate earnings and a surge in consumer spending, the market's upward trend reflects confidence in the ongoing economic recovery. Analysts highlight the technology sector's performance as a significant contributor to today's gains. Market participants remain watchful of the Federal Reserve's next moves, as policy decisions could influence the trajectory of this growth. Investors are advised to stay informed as the market navigates through dynamic financial conditions.",
+      "id": 4,
+      "image": "marketNewsImage.jpeg"
+    },
+    {
+      "title": "Wintry Week Ahead for Park City with Snowfall and Cold Snap",
+      "content": "Park City is set for a cold week with several days of snow forecasted, according to KUTV's 7-day weather outlook. The temperatures will stay below 40 degrees until a slight warm-up next Tuesday and Wednesday, with sunny skies and temperatures reaching into the low 50s. Residents should prepare for the wintry conditions and look forward to clearer weather by midweek.",
+      "id": 5,
+      "image": "weatherNewsImage.jpg"
+    }
+  ]
+}
